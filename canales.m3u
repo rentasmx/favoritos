@@ -1,0 +1,72 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SAS" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",&privé HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music Channel" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" tvg-url="" group-title="Music",1 Music Channel (576p)
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="" tvg-url="" group-title="",1+1
+http://spacetv.in/stream/DIPK8H19CP8/172.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/11llLr1.jpg" tvg-url="" group-title="News",100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="Auto",100automoto.tv
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/ZhvkYeg.jpg" tvg-url="" group-title="",101 Tele Antequera
+https://limited22.todostreaming.es/live/101tv-AntequeraHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/CXHLhZD.png" tvg-url="" group-title="",101TV Malaga
+https://limited22.todostreaming.es/live/101tv-web101tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/SfdY3rr.png" tvg-url="" group-title="",105'5 Spreeradio
+http://stream.spreeradio.de/spree-live/mp3-128/konsole
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/1iayQmM.png" tvg-url="" group-title="",105'5 Spreeradio 80er
+http://stream.spreeradio.de/spree-80er/mp3-128/konsole
+#EXTINF:-1 tvg-id="112-ua" tvg-name="112 Украина" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/cP5PSl2.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="News",112 Україна
+http://112hd-hls1.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
+#EXTINF:-1 tvg-id="112-ua" tvg-name="112 Украина" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/cP5PSl2.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="News",112 Україна
+http://112hd-hls1.cosmonova.net.ua/hls/112hd_ua_low/index.m3u8
+#EXTINF:-1 tvg-id="112-ua" tvg-name="112 Украина" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/cP5PSl2.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="News",112 Україна
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
+#EXTINF:-1 tvg-id="112-ua" tvg-name="112 Украина" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/cP5PSl2.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="News",112 Україна
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_low/index.m3u8
+#EXTINF:-1 tvg-id="112-ua" tvg-name="112 Украина" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/cP5PSl2.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="News",112 Україна
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="" tvg-url="" group-title="",112 Україна
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1 tvg-id="112-ua" tvg-name="112 Украина" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/cP5PSl2.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="News",112 Україна
+https://app.live.112.events/hls-ua/112hd_mid/index.m3u8
+#EXTINF:-1 tvg-id="112-ua" tvg-name="112 Украина" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/cP5PSl2.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="News",112 Україна
+https://app.live.112.events/hls/112hd_hi/index.m3u8
+#EXTINF:-1 tvg-id="112-ua" tvg-name="112 Украина" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/cP5PSl2.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="News",112 Україна
+https://app.live.112.events/hls/112hd_mid/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="",12 TV Parma
+https://meridelive01-lh.akamaihd.net/i/tvparma_1@356964/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/VuvGm3s.png" tvg-url="" group-title="",13 Max (720p)
+http://coninfo.net:1935/13maxhd/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Music",1HD Music Television
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Music",1HD Music Television
+https://sc.id-tv.kz/1hd_34_35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="HU" tvg-language="Hungarian" tvg-logo="" tvg-url="" group-title="Music",1Music Channel Hungary
+http://1music.hu/1music.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="GE" tvg-language="Georgian" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-url="" group-title="",1TV
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="GE" tvg-language="Georgian" tvg-logo="https://i.imgur.com/mX080in.png" tvg-url="" group-title="",1TV
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="" tvg-url="" group-title="",2+2
+http://spacetv.in/stream/DIPK8H19CP8/173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/it/e/e4/20_Mediaset_-_Logo_2018.svg" tvg-url="" group-title="",20 Mediaset
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://images.pluto.tv/channels/5d4af00df345adb154b7a1f4/colorLogoPNG.png" tvg-url="" group-title="",21 Jump Street
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af00df345adb154b7a1f4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/hbkWdwn.png" tvg-url="" group-title="",21TV (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s10/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/m5cc4g5.png" tvg-url="" group-title="",22 TV
+http://82.212.74.99:8000/live/hls/8117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png" tvg-url="" group-title="Local",23 ABC (KERO) (720p)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-name="" tvg-country="INT" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SvUWRQm.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="News",24 Horas (576p)
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/XMbCrRU.png" tvg-url="" group-title="",24 Horas
+https://rtvelivestream.akamaized.net/24h_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/8FO41es.png" tvg-url="" group-title="",24 TV
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6miysb8.png" tvg-url="" group-title="News",24/7 Canal de Noticias (720p)
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
