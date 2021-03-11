@@ -1,23 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SAS" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",&privé HD
-http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/fb81bc4c94691fd5dbb8f2594f727325978308a4/24cab28c1e813662264b9a31f241f5d3169eff0b/100384_12.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Music Channel" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" tvg-url="" group-title="Music",1 Music Channel (576p)
-iptv.services:2052/iptv_data/app/script/tv/fb81bc4c94691fd5dbb8f2594f727325978308a4/df64d90f3b699dc3e6e110f01d8f9ed1cd1c4e15/100364_12.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="" tvg-url="" group-title="",1+1
-iptv.services:2052/iptv_data/app/script/tv/fb81bc4c94691fd5dbb8f2594f727325978308a4/970da146936998271699693c66b24f293029bebf/100361_19.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/11llLr1.jpg" tvg-url="" group-title="News",100% News
-iptv.services:2052/iptv_data/app/script/tv/fb81bc4c94691fd5dbb8f2594f727325978308a4/6164fd433f58c1e281b51c801c4fd5eb7dff142c/100575_12.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="Auto",100automoto.tv
-iptv.services:2052/iptv_data/app/script/tv/fb81bc4c94691fd5dbb8f2594f727325978308a4/04ff8ee0062afd542a68ad532be1fd9696eeff91/100469_12.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/ZhvkYeg.jpg" tvg-url="" group-title="",101 Tele Antequera
-iptv.services:2052/iptv_data/app/script/tv/fb81bc4c94691fd5dbb8f2594f727325978308a4/483bbb708f989d61d4325271f639f3b12954a144/100701_9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/CXHLhZD.png" tvg-url="" group-title="",101TV Malaga
-iptv.services:2052/iptv_data/app/script/tv/fb81bc4c94691fd5dbb8f2594f727325978308a4/2fc5b9b31acfe7f9ab9a29a30e4f7d8029926913/100682_9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/SfdY3rr.png" tvg-url="" group-title="",105'5 Spreeradio
-iptv.services:2052/iptv_data/app/script/tv/fb81bc4c94691fd5dbb8f2594f727325978308a4/b35f908d68f6ceeb4f5ba7066df5939f56b00cfd/100646_12.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/1iayQmM.png" tvg-url="" group-title="",105'5 Spreeradio 80er
-iptv.services:2052/iptv_data/app/script/tv/fb81bc4c94691fd5dbb8f2594f727325978308a4/4c228cfe9b963023292669b220e8d4b81c6fc724/100653_12.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SAS" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",&privé HD
-iptv.services:2052/iptv_data/app/script/tv/fb81bc4c94691fd5dbb8f2594f727325978308a4/618fdea9c50f6124edbe3d6aedcd66a23c00b5d9/100215_19.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Music Channel" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" tvg-url="" group-title="Music",1 Music Channel (576p)
-iptv.services:2052/iptv_data/app/script/tv/fb81bc4c94691fd5dbb8f2594f727325978308a4/b133cb101b4e2e1633e25628ba277c4d5fccac7e/10073_19.m3u8
+#EXTINF:-1 ,canal 122
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,canal 223
+https://loop-90s-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,canal 1234
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
